@@ -166,7 +166,7 @@ ul.callbacks_tabs.callbacks2_tabs {
 /*--Slider-Part-Ends-Here--*/	
 .banner-text h1 {
   	color: #fff;
-  	background: #EA4C89;
+  	/* background: green; */
   	font-size: 1.35em;
   	font-weight: 700;
   	margin: 0;
@@ -188,15 +188,15 @@ ul.callbacks_tabs.callbacks2_tabs {
   	margin: 0;
 }
 .banner-top {
-	margin-top: 21.19%;
+	margin-top: 22%;
 	text-align: center;
 }
 .banner-top p {
   	color: #fff;
-  	font-size: 25px;
-  	font-weight: 100;
-  	font-family: 'Lato', sans-serif;
-  	font-style: italic;
+  	font-size: 80px;
+  	font-weight: bold;
+	  font-family: 'Lavender Script', sans-serif;
+  	/* font-style: italic; */
 }
 .welcome-bottom {
   	padding: 3.47em 15px;
